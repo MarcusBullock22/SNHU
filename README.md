@@ -26,5 +26,7 @@ I think I would revise the reccommendations a bit more, looking back I think the
 It's important to consider the users needs when designing, if you don't it could be more work down the line. Or you may end up with frustrated users as well.
 
 I really liked the work flow graphs, it really helped line out the process for what the client wants on top of gets you thinking of how to go about programming a feature.
+-----------------------------------------------------------------------------------------------------------------
+CS-260 Data Structures and Algorithms
 
-
+In this folder I included all my projects I did while taking this high end data structure course. I learned a lot about different data structures along with the best algorithm to use in different scenarios.
